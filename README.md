@@ -1,2 +1,2 @@
-# Images_mozssblog
-Images_mozssblog
+# Images-mozssblog
+Images-mozssblog
